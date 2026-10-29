@@ -1,0 +1,8 @@
+{
+    "aesKey": "{Your DoveRunner Site Key}",
+    "type": "unlabeled_a_variant",
+    "availableInterval": 60,
+    "prefixFolder": ["wm-contents"],
+    "wmtPublicKey": "{Your DoveRunner Akamai Public Key}",
+    "wmtPassword": "{Your DoveRunner Akamai Key Password}"
+}
